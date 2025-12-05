@@ -1,0 +1,105 @@
+{
+  "python3.12.exe::user activity monitor": {
+    "counts": {
+      "work": 89
+    }
+  },
+  "chatgpt.exe": {
+    "counts": {
+      "education": 58
+    }
+  },
+  "code.exe::visual studio code": {
+    "counts": {
+      "work": 44
+    }
+  },
+  "msiafterburner.exe": {
+    "counts": {
+      "games": 1
+    }
+  },
+  "explorer.exe": {
+    "counts": {
+      "browsing": 2,
+      "other": 4,
+      "work": 2
+    }
+  },
+  "msedge.exe": {
+    "counts": {
+      "browsing": 1
+    }
+  },
+  "chrome.exe::серіал": {
+    "counts": {
+      "media": 16
+    }
+  },
+  "chrome.exe::airdrop::binance": {
+    "counts": {
+      "work": 5
+    }
+  },
+  "chrome.exe::youtube": {
+    "counts": {
+      "media": 3
+    }
+  },
+  "chrome.exe::youtube::серіал": {
+    "counts": {
+      "media": 1
+    }
+  },
+  "steamwebhelper.exe::steam": {
+    "counts": {
+      "games": 20
+    }
+  },
+  "telegram.exe": {
+    "counts": {
+      "communication": 15
+    }
+  },
+  "snippingtool.exe": {
+    "counts": {
+      "other": 6,
+      "work": 1
+    }
+  },
+  "taskmgr.exe": {
+    "counts": {
+      "other": 1
+    }
+  },
+  "chatgpt.exe::chatgpt": {
+    "counts": {
+      "communication": 8
+    }
+  },
+  "chrome.exe": {
+    "counts": {
+      "browsing": 7
+    }
+  },
+  "chrome.exe::розклад": {
+    "counts": {
+      "education": 1
+    }
+  },
+  "python3.12.exe": {
+    "counts": {
+      "work": 2
+    }
+  },
+  "shellexperiencehost.exe": {
+    "counts": {
+      "communication": 1
+    }
+  },
+  "telegram.exe::telegram": {
+    "counts": {
+      "communication": 2
+    }
+  }
+}

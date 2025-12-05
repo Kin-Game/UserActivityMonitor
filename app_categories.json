@@ -1,0 +1,14 @@
+{
+  "rules": [
+    {
+      "exe": "cpuz.exe",
+      "title_contains": "CPU-Z",
+      "category": "other"
+    },
+    {
+      "exe": "python3.12.exe",
+      "title_contains": "User Activity Monitor",
+      "category": "work"
+    }
+  ]
+}

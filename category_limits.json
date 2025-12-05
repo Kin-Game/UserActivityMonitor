@@ -1,0 +1,158 @@
+{
+  "active_profile": "Work",
+  "profiles": {
+    "test": {
+      "limits": {
+        "work": {
+          "enabled": true,
+          "limit_minutes": 480
+        },
+        "games": {
+          "enabled": true,
+          "limit_minutes": 93
+        },
+        "media": {
+          "enabled": true,
+          "limit_minutes": 120
+        },
+        "browsing": {
+          "enabled": true,
+          "limit_minutes": 120
+        },
+        "communication": {
+          "enabled": true,
+          "limit_minutes": 180
+        },
+        "social": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "education": {
+          "enabled": true,
+          "limit_minutes": 240
+        },
+        "other": {
+          "enabled": true,
+          "limit_minutes": 60
+        }
+      }
+    },
+    "Work": {
+      "limits": {
+        "work": {
+          "enabled": true,
+          "limit_minutes": 480
+        },
+        "games": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "media": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "browsing": {
+          "enabled": true,
+          "limit_minutes": 30
+        },
+        "communication": {
+          "enabled": true,
+          "limit_minutes": 30
+        },
+        "social": {
+          "enabled": true,
+          "limit_minutes": 30
+        },
+        "education": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "other": {
+          "enabled": true,
+          "limit_minutes": 30
+        }
+      }
+    },
+    "Rest": {
+      "limits": {
+        "work": {
+          "enabled": true,
+          "limit_minutes": 120
+        },
+        "games": {
+          "enabled": true,
+          "limit_minutes": 120
+        },
+        "media": {
+          "enabled": true,
+          "limit_minutes": 120
+        },
+        "browsing": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "communication": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "social": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "education": {
+          "enabled": true,
+          "limit_minutes": 120
+        },
+        "other": {
+          "enabled": true,
+          "limit_minutes": 30
+        }
+      }
+    },
+    "Stydy": {
+      "limits": {
+        "work": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "games": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "media": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "browsing": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "communication": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "social": {
+          "enabled": true,
+          "limit_minutes": 60
+        },
+        "education": {
+          "enabled": true,
+          "limit_minutes": 360
+        },
+        "other": {
+          "enabled": true,
+          "limit_minutes": 30
+        }
+      }
+    }
+  },
+  "weekly_schedule": {
+    "mon": "Work",
+    "tue": "Work",
+    "wed": "Work",
+    "thu": "Work",
+    "fri": "Work",
+    "sat": "Stydy",
+    "sun": "Rest"
+  }
+}

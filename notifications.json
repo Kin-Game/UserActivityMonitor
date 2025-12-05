@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "warning_enabled": true,
+  "over_enabled": true,
+  "min_live_seconds": 60,
+  "warning_threshold": 0.8,
+  "over_threshold": 1.0,
+  "cooldown_warning_sec": 1200,
+  "cooldown_over_sec": 300
+}

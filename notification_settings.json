@@ -1,0 +1,10 @@
+{
+  "toast": {
+    "duration_ms": 10000,
+    "position": "bottom-right",
+    "cooldown_minutes": 1,
+    "show_warning": true,
+    "show_critical": true,
+    "sound_enabled": true
+  }
+}
